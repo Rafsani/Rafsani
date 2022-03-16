@@ -4,7 +4,7 @@ I'm a CS final year student and software developer from BUET, who loves open sou
 I mainly code in Javascript,Java and python, in 2020 I fell in love with Next.js, React, ExpressJs, Django RESTapi and so many other modern web frameworks. I am always learning. Currently I'm also
 working on a couple of projects, including my own
 [SkillNao](https://www.sharemyskillbd.com/), which is a skill sharing platform for the people of Bangladesh. I also am contributing
-to [ICT Cell Buet ](https://www.buet.ac.bd/info/Home/ICTCell), which is a site to
+to [ICT Cell BUET ](https://www.buet.ac.bd/info/Home/ICTCell), which is a site to
 manage Advance and Adjustment System of DAERS Office, BUET.
 
 ## Quick overview
