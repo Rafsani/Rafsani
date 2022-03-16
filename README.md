@@ -10,9 +10,10 @@ manage Advance and Adjustment System of DAERS Office, BUET.
 ## Quick overview
 * GitHub stats:  
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Rafsani&count_private=true&show_icons=true&theme=radical)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Rafsani&hide=stars,issues,contribs&show_icons=true&theme=radical&count_private=true)
 
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafsani&langs_count=6&hide=html,css&layout=compact&theme=radical&include_all_commits=true)](https://github.com/Rafsani/github-readme-stats)
+
 <details>
 <summary>
   More stuff about me
