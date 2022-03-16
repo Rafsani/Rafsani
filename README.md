@@ -13,10 +13,12 @@ manage Advance and Adjustment System of DAERS Office, BUET.
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Rafsani&count_private=true&show_icons=true&theme=radical)
 
  
+<details>
+<summary>
+  More stuff about me
+</summary>
 
-
-# More stuff about me
-
+ 
 
 ## What I do
 
@@ -53,3 +55,4 @@ I am currently working on both research and software development. My research wo
 - Diving into Machine Learning frameworks and Automation Tools
 
 
+</details>
