@@ -1,11 +1,7 @@
 # Hi everyone :wave:
 
-I'm a software developer from BUET, who loves open source, and is currently working at the [ICT Cell,BUET](https://www.buet.ac.bd/info/Home/ICTCell).
-I mainly code in Javascript,Java and python, in 2020 I fell in love with Next.js, React, ExpressJs, Django RESTapi and so many other modern web frameworks. I am always learning. Currently I'm also
-working on a couple of projects, including my own
-[SkillNao](https://www.sharemyskillbd.com/), which is a skill sharing platform for the people of Bangladesh. I also am contributing
-to [ICT Cell BUET ](https://www.buet.ac.bd/info/Home/ICTCell), which is building a site to
-manage Advance and Adjustment System of DAERS Office, BUET.
+I am now pursuing a Doctor of Philosophy (PhD) at Arizona State University and concurrently working as a Research Assistant at the  [Wu Lab](https://labs.engineering.asu.edu/wulab/). The scope of my current research include computer vision, artificial intelligence, and medical imaging. Formerly, I worked as a Software Engineer at [IQVIA](https://www.iqvia.com/), an international human data science company headquartered in North Carolina. Prior to that, I was employed as a part-time full stack developer at [ICT Cell BUET](https://www.buet.ac.bd/info/Home/ICTCell). I completed my undergraduate studines from [Department of Computer Science and Engineering, BUET](https://cse.buet.ac.bd/) in may 2022.
+
 
 ## Quick overview
 * GitHub stats:  
@@ -23,7 +19,7 @@ manage Advance and Adjustment System of DAERS Office, BUET.
 
 ## What I do
 
-I am currently working on both research and software development. My research works mainly focuses on ML/Dl, Virtual Network functions (VNF), Shilling attack on Recommender System. In case of software development I use MERN stack and Django Rest Framework. I am a quick learner who always loves to learn different stacks and loves to make experiments.
+I am currently working on multiple research project which include image segmentation using diffusion models. My research works mainly focus on Computer Vision and Medical Images.
 
 ## My skills 📜
 
@@ -47,13 +43,15 @@ I am currently working on both research and software development. My research wo
 
 ### Application Development
 
+- Next Best Actions [IQVIA]
+- Finance Tracker [IICT BUET]
 - College Database System
 - SkillNao
 
 
 ## What I'm currently learning 📚
 
-- Diving into Machine Learning frameworks and Automation Tools
+- Diving into Diffusion Models based Medical Image Segmentation and CLIP models for medical images
 
 
 </details>
