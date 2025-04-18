@@ -1,6 +1,6 @@
 # Hi everyone :wave:
 
-I am now pursuing a Doctor of Philosophy (PhD) at Arizona State University and concurrently working as a Research Assistant at the  [Wu Lab](https://labs.engineering.asu.edu/wulab/). The scope of my current research include computer vision, artificial intelligence, and medical imaging. Formerly, I worked as a Software Engineer at [IQVIA](https://www.iqvia.com/), an international human data science company headquartered in North Carolina. Prior to that, I was employed as a part-time full stack developer at [ICT Cell BUET](https://www.buet.ac.bd/info/Home/ICTCell). I completed my undergraduate studies from [Department of Computer Science and Engineering, BUET](https://cse.buet.ac.bd/) in may 2022.
+I am now pursuing a Doctor of Philosophy (PhD) at Arizona State University and concurrently working as a Research Assistant at the  [Wu Lab](https://labs.engineering.asu.edu/wulab/). The scope of my current research includes computer vision, deep learning, and medical imaging. Formerly, I worked as a Software Engineer at [IQVIA](https://www.iqvia.com/), an international human data science company headquartered in North Carolina. Before that, I was employed as a part-time full-stack developer at [ICT Cell BUET](https://www.buet.ac.bd/info/Home/ICTCell). I completed my undergraduate studies from [Department of Computer Science and Engineering, BUET](https://cse.buet.ac.bd/) in May 2022.
 
 
 ## Quick overview
@@ -52,6 +52,7 @@ I am currently working on multiple research project which include image segmenta
 ## What I'm currently learning 📚
 
 - Diving into Diffusion Models based Medical Image Segmentation and CLIP models for medical images
+- Developing new methods for Disease Subtyping using medical images and cutting edge Deep learning methods 
 
 
 </details>
