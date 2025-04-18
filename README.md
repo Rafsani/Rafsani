@@ -1,6 +1,6 @@
 # Hi everyone :wave:
 
-I am now pursuing a Doctor of Philosophy (PhD) at [Arizona State University](https://www.asu.edu/) and concurrently working as a Research Assistant at the  [ASU-Mayo Center for Innovative Imaging group](https://labs.engineering.asu.edu/wulab/). The scope of my current research includes computer vision, deep learning, and medical imaging. Formerly, I worked as a Software Engineer at [IQVIA](https://www.iqvia.com/), an international human data science company headquartered in North Carolina. Before that, I was employed as a part-time full-stack developer at [ICT Cell BUET](https://www.buet.ac.bd/info/Home/ICTCell). I completed my undergraduate studies from [Department of Computer Science and Engineering, BUET](https://cse.buet.ac.bd/) in May 2022.
+I am now pursuing a Doctor of Philosophy (PhD) at [Arizona State University](https://www.asu.edu/) and concurrently working as a Research Assistant at the  [ASU-Mayo Center for Innovative Imaging, AMCII Lab](https://labs.engineering.asu.edu/wulab/). The scope of my current research includes computer vision, deep learning, and medical imaging. Formerly, I worked as a Software Engineer at [IQVIA](https://www.iqvia.com/), an international human data science company headquartered in North Carolina. Before that, I was employed as a part-time full-stack developer at [ICT Cell BUET](https://www.buet.ac.bd/info/Home/ICTCell). I completed my undergraduate studies from [Department of Computer Science and Engineering, BUET](https://cse.buet.ac.bd/) in May 2022.
 
 
 ## Quick overview
